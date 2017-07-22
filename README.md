@@ -1,4 +1,4 @@
-# GNU PLot Realtime Plotting
+# Gnuplot Realtime Plotting
 
 
 # Execute files in this order:
